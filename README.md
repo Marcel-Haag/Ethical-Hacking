@@ -10,7 +10,6 @@
 * Bruteforce Wireless Access Point With Python
 * Create A Massive Email List Of Your Targets
 * Use Threads In Python In Order To Bruteforce SSH Faster
-* Create A Virtual Machine
 * Hack Multiple Target Machines Using Python
 * ARP Spoof Router And Sniff On Data
 * Steal Passwords Through Local Connection
