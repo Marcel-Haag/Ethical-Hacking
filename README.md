@@ -1,7 +1,7 @@
 # Ethical-Hacking
 
 * Discover Vulnerabilities With Python
-* Create Your Own Advance Backdoor That You Can Use In Your Penetration Testing
+* Create Your Own Advance Backdoor
 * Maintain Multiple Connections At Once With Python
 * Create A Python Keylogger That Will Capture All Keystrokes
 * Sniff Passwords Over The Network Using Man In The Middle ARP Spoofing
